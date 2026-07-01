@@ -2,7 +2,7 @@ https://dev.to/idsulik/empowering-newbies-building-confidence-through-600-leetco
 
 https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-interview-8abbb6af589e
 
-
+https://medium.com/@austin-starks/heres-the-secret-to-getting-good-at-leetcode-that-nobody-ever-told-you-43a6d4852a44
 
 Googliness & Leadership Interview
 This round was focused on behavioral assessment, leadership traits, and cultural fit (often referred to as “Googliness”).
