@@ -58,3 +58,40 @@ Some days things won’t go your way — the key is to stay ready for the next o
 Even though I didn’t crack Google, getting that far reminded me that my hard work, projects, and consistency are taking me in the right direction.
 
 That experience didn’t give me an offer letter — but it gave me a stronger mindset, a clearer sense of direction, and the belief that I’ll make it there someday.
+
+
+
+
+
+Step 3: LeetCode Practice – The Right Way
+If you want to get a job at companies like Facebook and Google, you’ll want to be proficient at solving most leetcode questions. That means not only being able to solve them, but doing so optimally.
+
+Get Austin Starks’s stories in your inbox
+Join Medium for free to get updates from this writer.
+
+Enter your email
+Subscribe
+
+Remember me for faster sign in
+
+The questions you’ll need to know how to solve is colloquially known as “The Blind 75”. It’s a list of the most important leetcode questions to study. Download this sheet and approach it exactly as follows:
+
+Rules of Engagement
+Start with a category you’ve studied.
+Set a timer for 20 minutes.
+Aim to solve the problem. If you don’t know the best solution, try to solve first by brute force, then analyzing its strengths and weaknesses. If you know how to solve the problem optimally, do so.
+Stop when the timer goes off. Period.
+Look up the most optimal solution. Google, YouTube, and ChatGPT can be invaluable for this. Feel free to take notes and draw pictures to help it sink into your brain.
+Looking at the solution (or some notes that you took), input the optimal solution into leetcode.
+On the Excel sheet, if you got the problem right in 20 minutes or less, mark “Yes”. If you didn’t, mark “No”. Use an array (like the first example) to track how many times you attempted to solve the problem.
+Take a 10 minute break, and do another problem.
+Complexity Coverage
+Don’t just settle for the first solution you find. Analyze its time and space complexities and think about potential optimizations. This will prepare you for the high-level complexities that come up in interviews at places like Google and Facebook.
+
+Iterative Learning
+The next day, revisit the problems you got wrong.
+Set a 20-minute timer again.
+Repeat the above song and dance.
+Why this approach? It’s simple. When studying leetcode, it’s tempting to spend an hour on an individual problem, especially if you’re close to the solution or you think you should know it. But spending an exorbitant amount of time on one question is detrimental, particularly with the quantity of problems you want to solve. Your aim is to get good at a wide array of problems, not just one or two.
+
+So there you have it – a foolproof plan to mastering LeetCode. It requires time, effort, and above all, the right strategy. With this approach, you’re not just solving problems; you’re mastering them. And soon enough, you’ll be the one getting those offers from top tech companies.
