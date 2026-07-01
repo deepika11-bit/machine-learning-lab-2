@@ -24,3 +24,37 @@ Focus as much on clarity of thought as you do on coding.
 Be ready to ask clarifying questions and explore edge cases out loud.
 Don’t jump into coding, focus on running down the optimal solution clearly first.
 And remember — even if you don’t get in, the learning you gain is yours to keep.
+
+
+
+
+
+
+🧩 The Final Interview
+The next round was scheduled for 17th July with a Senior Software Engineer (12+ years of experience).
+He presented a hard Dynamic Programming problem — and unfortunately, I couldn’t solve it.
+
+Within a few days, I received the rejection mail.
+
+💭 Reflections and Takeaways
+No, I didn’t make it to Google.
+But I made it through something far more valuable — the journey that taught me what true growth feels like.
+
+Here are my biggest takeaways:
+
+🌱 1. Preparation is not just about solving problems — it’s about building patience.
+Hours of revision and practice don’t just sharpen your skills; they prepare your mind to stay calm when things go wrong — even during a power cut.
+
+💡 2. Rejection doesn’t define your capability — it defines your current version.
+Not clearing an interview doesn’t mean you’re not good enough. It simply means your “version 1.0” isn’t ready yet. Keep upgrading yourself.
+
+🔥 3. Confidence isn’t built by success — it’s built by surviving failure.
+The moment you bounce back after a tough round, that’s when you truly start believing in yourself.
+
+⚙️ 4. Luck plays a role, but preparation decides how much luck can help you.
+Some days things won’t go your way — the key is to stay ready for the next opportunity that does.
+
+🚀 5. Getting close to your dream counts.
+Even though I didn’t crack Google, getting that far reminded me that my hard work, projects, and consistency are taking me in the right direction.
+
+That experience didn’t give me an offer letter — but it gave me a stronger mindset, a clearer sense of direction, and the belief that I’ll make it there someday.
