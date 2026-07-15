@@ -4,6 +4,10 @@ https://medium.com/@koheiarai94/60-leetcode-questions-to-prepare-for-coding-inte
 
 https://medium.com/@austin-starks/heres-the-secret-to-getting-good-at-leetcode-that-nobody-ever-told-you-43a6d4852a44
 
+
+https://www.geeksforgeeks.org/machine-learning/naive-bayes-classifiers/
+
+
 Googliness & Leadership Interview
 This round was focused on behavioral assessment, leadership traits, and cultural fit (often referred to as “Googliness”).
 
